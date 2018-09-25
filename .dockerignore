@@ -1,0 +1,4 @@
+fixture/
+bin/
+node_modules/
+*.img
